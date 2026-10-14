@@ -50,7 +50,7 @@
 4. 進捗状況の確認
 5. 連絡、共有事項
 
-> アジェンダには、Sprint Reviewの目的の確認と、Sprint Goalの達成可否の評価の時間を設けること
+> アジェンダには、Sprint Reviewの目的の確認と、Sprint Goalの達成可否の評価の時間を設けること  
 > アジェンダは、適宜アレンジすること
 
 ## 1st Sprint Goal
